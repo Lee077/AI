@@ -1,0 +1,5 @@
+代码文件：
+app.py：应用程序，实现图像识别
+vgg16.py：读模型参数，搭建模型
+utils.py：读入图片，概率显示
+Nclasses.py：含lables字典
