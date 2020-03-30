@@ -1,0 +1,18 @@
+
+三个代码文件，一个result文件夹（代码运行后的效果图）
+
+
+三个文件：
+backward.py：训练参数  
+forward.py：网络模型
+generateds.py：构建数据集
+
+
+执行：
+backward.py
+
+
+补充：
+generateds.py：构建数据集
+数据集 是代码( np.random.RandomState(seed)) 随机生成的数组，
+标签是自定义的规则，显示出0和1
