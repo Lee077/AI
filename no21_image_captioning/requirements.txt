@@ -1,0 +1,11 @@
+matplotlib
+nltk
+numpy
+Pillow
+argparse
+
+# https://blog.csdn.net/zengNLP/article/details/95041026
+Downloading: "https://download.pytorch.org/models/resnet152-b121ed2d.pth"
+to /home/lin7u/.cache/torch/checkpoints/resnet152-b121ed2d.pth
+
+https://blog.csdn.net/abcdrachel/article/details/94381385
